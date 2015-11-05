@@ -91,7 +91,7 @@ function watchElement(parent, settings){
 
         function updateEnters(){
             var now = Date.now();
-            while(Date.now() - now < 8 && toExit.size || toEnter.size){
+            while(Date.now() - now < 8 && (toExit.size || toEnter.size)){
                 if(toExit.size){
                     var previouslyInView = toExit.values().next().value;
 
