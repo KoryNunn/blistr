@@ -1,6 +1,6 @@
 {
   "name": "blistr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "track if children of a scrollable element are positioned in the viewport or not.",
   "main": "index.js",
   "scripts": {
