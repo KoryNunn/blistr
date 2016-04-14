@@ -1,11 +1,20 @@
 {
   "name": "blistr",
   "version": "1.0.1",
-  "description": "",
+  "description": "track if children of a scrollable element are positioned in the viewport or not.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/blistr.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/KoryNunn/blistr/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/blistr#readme"
 }
